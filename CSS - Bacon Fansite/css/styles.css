@@ -1,0 +1,33 @@
+/**************************TAG***********************/
+    h1{
+      color: red;
+      font-size: 200px;
+    }
+
+
+    img:hover{
+      background-color: gold;
+    }
+
+  /*******************SELCTORS**************************/
+
+
+
+.bacon{
+  background-color: green;
+}
+.broccoli {
+  background-color: red;
+}
+
+.circular{
+  border-radius: 100%
+}
+
+/**********************IDS*****************/
+#heading {
+  color: blue;
+}
+#big{
+  font-size: 100px;
+}
